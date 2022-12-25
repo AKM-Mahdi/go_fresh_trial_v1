@@ -1,0 +1,9 @@
+.searchProduct {
+  width: 500px;
+}
+
+@media (max-width: 640px) {
+  .searchProduct {
+    width: 220px;
+  }
+}
